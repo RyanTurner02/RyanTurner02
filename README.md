@@ -10,7 +10,7 @@ I'm a Software Engineer and a Computer Science Alum from the University of Centr
 * **[text2mc](https://text2mc.vercel.app/):** the first tool for creating Minecraft builds with Generative AI.
   * [text2mc Data Processor](https://github.com/shauncomino/text2mc-dataprocessor)
   * [text2mc Frontend](https://github.com/Alan-Laboy/text2mc-frontend)
-* **[Inventory Manager](https://github.com/RyanTurner02/inventory-manager):** a JavaFx desktop application for managing a list of inventory items.
+* **[Inventory Manager](https://github.com/RyanTurner02/inventory-manager):** a JavaFX desktop application for managing a list of inventory items.
 
 ## Games
 
