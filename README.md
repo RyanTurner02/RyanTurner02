@@ -16,8 +16,3 @@ I'm a Software Engineer and a Computer Science Alum from the University of Centr
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![.NET](https://skillicons.dev/icons?i=dotnet)
-
-## Socials
-
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/RyanTurner02)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ryanturner02/)
