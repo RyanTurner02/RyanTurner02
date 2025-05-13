@@ -1,18 +1,7 @@
-# Hi there 👋
+### Hi there 👋
 
-I'm a Software Engineer and a Computer Science Alum from the University of Central Florida.
+#### Software Engineer, UCF CS Alum
 
-![Java](https://skillicons.dev/icons?i=java)
-![C#](https://skillicons.dev/icons?i=cs)
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Python](https://skillicons.dev/icons?i=python)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![.NET](https://skillicons.dev/icons?i=dotnet)
+* **⚙️ Technologies:** `.java`, `.cs`, `.cpp`, `.ts`, `.js`, `.py`, `.sql`
+* **🚀 Projects:** [Pocketwatch](https://github.com/RyanTurner02/pocketwatch), [text2mc](https://github.com/RyanTurner02/text2mc-dataprocessor), [Space Havoc](https://github.com/RyanTurner02/space-havoc)
+* **🌐 Socials:** [LinkedIn](https://www.linkedin.com/in/ryanturner02/)
